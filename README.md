@@ -2,6 +2,8 @@ VAMPIRE: THE MASQUERADE
 La Masquerade e I Secoli Bui · Catalogo USA e Italia, 1991–2026
 Iļ catalogo può essere incompleto. Ricognizione del 10 novembre 2026
 
+https://mephitrpg.github.io/catalogo-vampiri/
+
 Estrai l’archivio e apri index.html. L’HTML incorpora copertine,
 stile e filtri. Le copie separate di CSS, JavaScript e immagini
 sono incluse per consultazione e riuso dei dati.
