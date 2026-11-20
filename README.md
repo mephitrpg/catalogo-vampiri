@@ -29,10 +29,6 @@ il singolo volume. Il JSON riporta l’impronta SHA-256 delle immagini.
 Le fonti sono consultabili come testo nelle schede. Le date «ca.»
 sono indicative e il censimento delle tirature resta aperto.
 
-Il file MHT separato contiene la stessa pagina. Usa un browser
-con supporto MHTML. La ricerca e gli altri filtri possono essere
-disabilitati dal browser negli archivi MHTML.
-
 Le quattro Transylvania Chronicles sono indicizzate tra i materiali
 condivisi. Le schede restano nelle rispettive edizioni di La Masquerade.
 
